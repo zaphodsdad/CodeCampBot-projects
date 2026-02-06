@@ -6,4 +6,4 @@ Each directory is a freeCodeCamp project. The code evolves lesson by lesson as A
 
 Reviewed by **Professor Babbage**. Journal at [johnaburks.com/codecampbot](https://johnaburks.com/codecampbot/).
 
-Built with [CodeCampBot](https://github.com/zaphodsdad/CodeCampBot).
+Read more at [johnaburks.com/codecampbot](https://johnaburks.com/codecampbot/).
